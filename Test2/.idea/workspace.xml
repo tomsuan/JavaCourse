@@ -1,0 +1,1551 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="7ad5b81b-d457-4741-876e-5d16f86f226b" name="Default" comment="">
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../T!Q28/.idea/misc.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../T!Q28/.idea/modules.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../T!Q28/.idea/runConfigurations/T_Q28.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../T!Q28/.idea/workspace.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../T!Q28/T!Q28.iml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../T!Q28/src/enthu/com/Calculator.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../T1Q29/.idea/misc.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../T1Q29/.idea/modules.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../T1Q29/.idea/runConfigurations/T1Q29.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../T1Q29/.idea/vcs.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../T1Q29/.idea/workspace.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../T1Q29/T1Q29.iml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../T1Q29/src/T1Q31/Main.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../T1Q29/src/T1Q32/InitClass.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../T1Q29/src/T1Q33/StringWrapper.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../T1Q29/src/t1q29/com/TestClass.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../T1Q35/.idea/misc.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../T1Q35/.idea/modules.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../T1Q35/.idea/workspace.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../T1Q35/T1Q35.iml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../T1Q35/src/T1Q35/com/IInt.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../T1Q35/src/T1Q35/com/Sample.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../T1Q38/.idea/misc.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../T1Q38/.idea/modules.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../T1Q38/.idea/workspace.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../T1Q38/T1Q38.iml" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../Assignment1/.classpath" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../Assignment1/.project" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../Assignment1/.settings/org.eclipse.jdt.core.prefs" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../Assignment1/bin/com/farm/Animal.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../Assignment1/bin/com/farm/Cow.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../Assignment1/bin/com/farm/Farmer.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../Assignment1/bin/com/farm/Farmer2.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../Assignment1/bin/com/farm/Main.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../Assignment1/bin/com/farm/Sheep.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../Assignment1/src/com/farm/Animal.java" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../Assignment1/src/com/farm/Farmer.java" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../Assignment1/src/com/farm/Farmer2.java" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../Assignment1/src/com/farm/Main.java" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../Assignment2/.classpath" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../Assignment2/.project" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../Assignment2/.settings/org.eclipse.jdt.core.prefs" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../Assignment2/bin/com/noel/Diamond.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../Assignment2/bin/com/noel/Main.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../Assignment2/src/com/noel/Diamond.java" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../Assignment2/src/com/noel/Main.java" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../Chap2Test/.classpath" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../Chap2Test/.project" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../Chap2Test/.settings/org.eclipse.jdt.core.prefs" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../Chap2Test/bin/com/noel/Examples.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../Chap2Test/bin/com/noel/Main.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../Chap2Test/src/com/noel/Examples.java" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../Chap2Test/src/com/noel/Main.java" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../Chap3Test/.classpath" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../Chap3Test/.project" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../Chap3Test/.settings/org.eclipse.jdt.core.prefs" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../Chap3Test/bin/Animal.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../Chap3Test/bin/Cat.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../Chap3Test/bin/Change.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../Chap3Test/bin/Dog.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../Chap3Test/bin/Gorilla.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../Chap3Test/bin/Main.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../Chap3Test/bin/Questions.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../Chap3Test/bin/Zoo.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../Chap3Test/src/Animal.java" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../Chap3Test/src/Change.java" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../Chap3Test/src/Main.java" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../Chap3Test/src/Questions.java" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../Chap4Test/.classpath" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../Chap4Test/.project" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../Chap4Test/.settings/org.eclipse.jdt.core.prefs" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../Chap4Test/bin/com/noel/Main.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../Chap4Test/bin/com/noel/Questions.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../Chap4Test/src/com/noel/Main.java" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../Chap4Test/src/com/noel/Questions.java" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../Chap5Test/.classpath" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../Chap5Test/.project" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../Chap5Test/.settings/org.eclipse.jdt.core.prefs" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../Chap5Test/bin/com/noel/Main.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../Chap5Test/bin/com/noel/Questions.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../Chap5Test/src/com/noel/Main.java" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../Chap5Test/src/com/noel/Questions.java" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../Chapter2.3/.classpath" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../Chapter2.3/.project" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../Chapter2.3/.settings/org.eclipse.jdt.core.prefs" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../Chapter2.3/bin/com/android/Dog.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../Chapter2.3/bin/com/android/Main.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../Chapter2.3/bin/com/android/PassMe.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../Chapter2.3/src/com/android/Dog.java" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../Chapter2.3/src/com/android/Main.java" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../Eight/.classpath" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../Eight/.project" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../Eight/.settings/org.eclipse.jdt.core.prefs" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../Eight/bin/com/android/Main.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../Eight/src/com/android/Main.java" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../Eleven/.classpath" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../Eleven/.project" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../Eleven/.settings/org.eclipse.jdt.core.prefs" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../Eleven/bin/com/android/Main.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../Eleven/src/com/android/Main.java" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../Five/.classpath" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../Five/.project" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../Five/.settings/org.eclipse.jdt.core.prefs" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../Five/bin/com/android/Main.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../Five/src/com/android/Main.java" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../Four/.classpath" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../Four/.project" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../Four/.settings/org.eclipse.jdt.core.prefs" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../Four/bin/com/android/Main.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../Four/src/com/android/Main.java" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../Generics/.classpath" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../Generics/.project" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../Generics/.settings/org.eclipse.jdt.core.prefs" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../Generics/bin/com/noel/Behaviour.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../Generics/bin/com/noel/Box.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../Generics/bin/com/noel/Cat.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../Generics/bin/com/noel/Dog.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../Generics/bin/com/noel/Main.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../Generics/src/com/noel/Behaviour.java" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../Generics/src/com/noel/Box.java" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../Generics/src/com/noel/Dog.java" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../Generics/src/com/noel/Main.java" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../GreenBottles/.classpath" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../GreenBottles/.project" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../GreenBottles/.settings/org.eclipse.jdt.core.prefs" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../GreenBottles/GreenBottles.iml" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../GreenBottles/bin/Main.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../GreenBottles/src/Main.java" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../Inheritance/.classpath" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../Inheritance/.project" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../Inheritance/.settings/org.eclipse.jdt.core.prefs" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../Inheritance/bin/com/noel/Animal.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../Inheritance/bin/com/noel/Building.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../Inheritance/bin/com/noel/Bungalow.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../Inheritance/bin/com/noel/Dog.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../Inheritance/bin/com/noel/Employee.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../Inheritance/bin/com/noel/House.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../Inheritance/bin/com/noel/Main.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../Inheritance/bin/com/noel/Person.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../Inheritance/bin/com/noel/Setter.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../Inheritance/src/com/noel/Animal.java" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../Inheritance/src/com/noel/Building.java" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../Inheritance/src/com/noel/Main.java" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../Inheritance/src/com/noel/Person.java" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../Inheritance2/.classpath" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../Inheritance2/.project" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../Inheritance2/.settings/org.eclipse.jdt.core.prefs" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../Inheritance2/bin/com/noel/Accountant.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../Inheritance2/bin/com/noel/Animal.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../Inheritance2/bin/com/noel/Building.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../Inheritance2/bin/com/noel/Bungalow.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../Inheritance2/bin/com/noel/Collie.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../Inheritance2/bin/com/noel/Dog.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../Inheritance2/bin/com/noel/Employee.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../Inheritance2/bin/com/noel/Flower.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../Inheritance2/bin/com/noel/House.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../Inheritance2/bin/com/noel/Main.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../Inheritance2/bin/com/noel/Person.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../Inheritance2/bin/com/noel/PinkRose.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../Inheritance2/bin/com/noel/Plant.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../Inheritance2/bin/com/noel/Rose.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../Inheritance2/bin/com/noel/StaticMethods.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../Inheritance2/src/com/noel/Animal.java" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../Inheritance2/src/com/noel/Building.java" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../Inheritance2/src/com/noel/Main.java" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../Inheritance2/src/com/noel/Person.java" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../Inheritance2/src/com/noel/Plant.java" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../Inheritance2/src/com/noel/StaticMethods.java" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../Inheritance3/.classpath" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../Inheritance3/.project" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../Inheritance3/.settings/org.eclipse.jdt.core.prefs" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../Inheritance3/bin/com/noel/Behaviour.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../Inheritance3/bin/com/noel/Camel.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../Inheritance3/bin/com/noel/Cat.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../Inheritance3/bin/com/noel/Conditions.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../Inheritance3/bin/com/noel/Dog.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../Inheritance3/bin/com/noel/Main.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../Inheritance3/bin/com/noel/Movement.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../Inheritance3/bin/com/noel/Zebra.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../Inheritance3/src/com/noel/Behaviour.java" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../Inheritance3/src/com/noel/Camel.java" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../Inheritance3/src/com/noel/Cat.java" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../Inheritance3/src/com/noel/Conditions.java" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../Inheritance3/src/com/noel/Dog.java" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../Inheritance3/src/com/noel/Main.java" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../Inheritance3/src/com/noel/Movement.java" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../Inheritance3/src/com/noel/Zebra.java" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../Inheritance4/.classpath" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../Inheritance4/.project" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../Inheritance4/.settings/org.eclipse.jdt.core.prefs" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../Inheritance4/bin/com/noel/Air.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../Inheritance4/bin/com/noel/Animal.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../Inheritance4/bin/com/noel/Ape.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../Inheritance4/bin/com/noel/Behaviour.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../Inheritance4/bin/com/noel/Bird.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../Inheritance4/bin/com/noel/BorderCollie.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../Inheritance4/bin/com/noel/Calculations.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../Inheritance4/bin/com/noel/Cat.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../Inheritance4/bin/com/noel/Chicken.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../Inheritance4/bin/com/noel/Collie.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../Inheritance4/bin/com/noel/Desire.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../Inheritance4/bin/com/noel/Doctor.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../Inheritance4/bin/com/noel/Dog.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../Inheritance4/bin/com/noel/Dolphin.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../Inheritance4/bin/com/noel/Domestic.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../Inheritance4/bin/com/noel/Employee.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../Inheritance4/bin/com/noel/Examples.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../Inheritance4/bin/com/noel/Fish.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../Inheritance4/bin/com/noel/GreatWhite.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../Inheritance4/bin/com/noel/Human.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../Inheritance4/bin/com/noel/Insect.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../Inheritance4/bin/com/noel/Main.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../Inheritance4/bin/com/noel/Mammal.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../Inheritance4/bin/com/noel/Monkey.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../Inheritance4/bin/com/noel/Movement.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../Inheritance4/bin/com/noel/Person.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../Inheritance4/bin/com/noel/Plane.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../Inheritance4/bin/com/noel/Shark.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../Inheritance4/bin/com/noel/Spider.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../Inheritance4/bin/com/noel/Swan.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../Inheritance4/bin/com/noel/Tarantula.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../Inheritance4/bin/com/noel/Vehicle.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../Inheritance4/bin/com/noel/Wages.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../Inheritance4/src/com/noel/Animal.java" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../Inheritance4/src/com/noel/Ape.java" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../Inheritance4/src/com/noel/Behaviour.java" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../Inheritance4/src/com/noel/Bird.java" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../Inheritance4/src/com/noel/Calculations.java" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../Inheritance4/src/com/noel/Cat.java" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../Inheritance4/src/com/noel/Desire.java" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../Inheritance4/src/com/noel/Dog.java" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../Inheritance4/src/com/noel/Examples.java" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../Inheritance4/src/com/noel/Fish.java" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../Inheritance4/src/com/noel/Insect.java" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../Inheritance4/src/com/noel/Main.java" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../Inheritance4/src/com/noel/Movement.java" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../Inheritance4/src/com/noel/Person.java" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../Inheritance4/src/com/noel/Swan.java" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../Inheritance4/src/com/noel/Vehicle.java" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../Inheritance4/src/com/noel/Wages.java" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../Nine/.classpath" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../Nine/.project" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../Nine/.settings/org.eclipse.jdt.core.prefs" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../Nine/bin/com/android/Main.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../Nine/src/com/android/Main.java" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../One/.classpath" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../One/.project" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../One/.settings/org.eclipse.jdt.core.prefs" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../One/bin/com/android/Main.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../One/src/com/android/Main.java" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../RemoteSystemsTempFiles/.project" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../Seciont1.1/.classpath" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../Seciont1.1/.project" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../Seciont1.1/.settings/org.eclipse.jdt.core.prefs" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../Seciont1.1/bin/com/android/Accountant.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../Seciont1.1/bin/com/android/Building.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../Seciont1.1/bin/com/android/Employee.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../Seciont1.1/bin/com/android/Main.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../Seciont1.1/bin/com/android/Person$Car.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../Seciont1.1/bin/com/android/Person$Heart.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../Seciont1.1/bin/com/android/Person$emotions.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../Seciont1.1/bin/com/android/Person.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../Seciont1.1/bin/com/android/Phone.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../Seciont1.1/bin/com/animal/Cow.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../Seciont1.1/bin/com/animal/Duck.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../Seciont1.1/bin/com/animal/Zebra.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../Seciont1.1/bin/com/animal/mammal/Ape.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../Seciont1.1/bin/com/animal/mammal/Behaviour.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../Seciont1.1/bin/com/animal/mammal/Building.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../Seciont1.1/bin/com/animal/mammal/Horse.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../Seciont1.1/bin/com/animal/mammal/House.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../Seciont1.1/bin/com/animal/mammal/Monkey.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../Seciont1.1/bin/com/animal/mammal/inter3.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../Seciont1.1/bin/com/animal/mammal/mood.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../Seciont1.1/src/com/android/Accountant.java" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../Seciont1.1/src/com/android/Employee.java" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../Seciont1.1/src/com/android/Main.java" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../Seciont1.1/src/com/android/Person.java" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../Seciont1.1/src/com/android/Phone.java" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../Seciont1.1/src/com/animal/Cow.java" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../Seciont1.1/src/com/animal/Duck.java" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../Seciont1.1/src/com/animal/Zebra.java" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../Seciont1.1/src/com/animal/mammal/Ape.java" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../Seciont1.1/src/com/animal/mammal/Behaviour.java" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../Seciont1.1/src/com/animal/mammal/Horse.java" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../Seciont1.1/src/com/animal/mammal/Monkey.java" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../Section1.3/.classpath" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../Section1.3/.project" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../Section1.3/.settings/org.eclipse.jdt.core.prefs" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../Section1.3/bin/com/android/AnnualExam.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../Section1.3/bin/com/android/Date2.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../Section1.3/bin/com/android/Dates.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../Section1.3/bin/com/android/Main.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../Section1.3/bin/com/building/SkyScraper.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../Section1.3/bin/com/building/commercial/Factory.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../Section1.3/bin/com/building/commercial/Office.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../Section1.3/bin/com/building/residental/Bungalow.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../Section1.3/bin/com/building/residental/SemiDetached.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../Section1.3/bin/com/exam/ExamQuestion.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../Section1.3/bin/com/exam/ExamQuestion2.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../Section1.3/bin/com/exam/Test.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../Section1.3/src/com/android/AnnualExam.java" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../Section1.3/src/com/android/Date2.java" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../Section1.3/src/com/android/Dates.java" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../Section1.3/src/com/android/Main.java" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../Section1.3/src/com/building/SkyScraper.java" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../Section1.3/src/com/building/commercial/Factory.java" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../Section1.3/src/com/building/commercial/Office.java" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../Section1.3/src/com/building/residental/Bungalow.java" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../Section1.3/src/com/building/residental/SemiDetached.java" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../Section1.3/src/com/exam/ExamQuestion.java" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../Section1.3/src/com/exam/ExamQuestion2.java" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../Section1.3/src/com/exam/Test.java" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../Section1.4/.classpath" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../Section1.4/.project" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../Section1.4/.settings/org.eclipse.jdt.core.prefs" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../Section1.4/bin/com/android/Main.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../Section1.4/bin/com/ape/Chimp.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../Section1.4/bin/com/ape/Gibbon.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../Section1.4/bin/com/ape/Group.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../Section1.4/bin/com/ape/human/Accountant.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../Section1.4/bin/com/ape/human/Employee.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../Section1.4/bin/com/ape/human/Programmer.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../Section1.4/bin/com/ape/human/Society.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../Section1.4/bin/com/building/Access.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../Section1.4/bin/com/building/Animal.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../Section1.4/bin/com/building/Cat.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../Section1.4/bin/com/building/Siamese.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../Section1.4/bin/com/cannine/Dog.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../Section1.4/src/com/android/Main.java" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../Section1.4/src/com/ape/Chimp.java" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../Section1.4/src/com/ape/Gibbon.java" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../Section1.4/src/com/ape/Group.java" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../Section1.4/src/com/ape/human/Accountant.java" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../Section1.4/src/com/ape/human/Employee.java" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../Section1.4/src/com/ape/human/Programmer.java" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../Section1.4/src/com/ape/human/Society.java" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../Section1.4/src/com/building/Access.java" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../Section1.4/src/com/building/Animal.java" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../Section1.4/src/com/building/Cat.java" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../Section1.4/src/com/cannine/Dog.java" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../Section1.4/src/house/Test.java" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../Section1.5/.classpath" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../Section1.5/.project" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../Section1.5/.settings/org.eclipse.jdt.core.prefs" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../Section1.5/bin/com/android/Animal.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../Section1.5/bin/com/android/Ape.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../Section1.5/bin/com/android/Behaviour.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../Section1.5/bin/com/android/Dog.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../Section1.5/bin/com/android/Galway.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../Section1.5/bin/com/android/Irish.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../Section1.5/bin/com/android/Main.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../Section1.5/bin/com/android/Mood.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../Section1.5/bin/com/android/Person.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../Section1.5/bin/com/android/RattleSnake.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../Section1.5/bin/com/android/Reptile.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../Section1.5/bin/com/android/Snake.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../Section1.5/bin/com/android/Swan.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../Section1.5/bin/com/android/Trainee.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../Section1.5/src/com/android/Animal.java" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../Section1.5/src/com/android/Ape.java" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../Section1.5/src/com/android/Behaviour.java" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../Section1.5/src/com/android/Main.java" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../Section1.5/src/com/android/Person.java" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../Section1.5/src/com/android/Swan.java" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../Section1.5/src/com/android/Trainee.java" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../Section2.1/.classpath" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../Section2.1/.project" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../Section2.1/.settings/org.eclipse.core.resources.prefs" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../Section2.1/.settings/org.eclipse.jdt.core.prefs" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../Section2.1/bin/com/android/Examples.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../Section2.1/bin/com/android/Main.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../Section2.1/bin/com/android/Person.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../Section2.1/src/com/android/Examples.java" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../Section2.1/src/com/android/Main.java" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../Section2.1/src/com/android/Person.java" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../Section2.4/.classpath" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../Section2.4/.project" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../Section2.4/.settings/org.eclipse.jdt.core.prefs" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../Section2.4/bin/com/noel/Examples.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../Section2.4/bin/com/noel/Main.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../Section2.4/src/com/noel/Examples.java" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../Section2.4/src/com/noel/Main.java" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../Section2.5/.classpath" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../Section2.5/.project" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../Section2.5/.settings/org.eclipse.jdt.core.prefs" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../Section2.5/bin/com/noel/Dog.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../Section2.5/bin/com/noel/Examples.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../Section2.5/bin/com/noel/Main.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../Section2.5/src/com/noel/Dog.java" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../Section2.5/src/com/noel/Examples.java" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../Section2.5/src/com/noel/Main.java" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../Section3.1/.classpath" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../Section3.1/.project" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../Section3.1/.settings/org.eclipse.jdt.core.prefs" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../Section3.1/bin/com/noel/Dog.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../Section3.1/bin/com/noel/Local.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../Section3.1/bin/com/noel/Main.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../Section3.1/bin/com/noel/Phone.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../Section3.1/bin/com/noel/Pupil.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../Section3.1/src/com/noel/Dog.java" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../Section3.1/src/com/noel/Local.java" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../Section3.1/src/com/noel/Main.java" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../Section3.1/src/com/noel/Phone.java" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../Section3.1/src/com/noel/Pupil.java" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../Section3.2/.classpath" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../Section3.2/.project" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../Section3.2/.settings/org.eclipse.jdt.core.prefs" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../Section3.2/bin/com/noel/Cow.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../Section3.2/bin/com/noel/Dog.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../Section3.2/bin/com/noel/Elephant.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../Section3.2/bin/com/noel/Employee.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../Section3.2/bin/com/noel/Exam.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../Section3.2/bin/com/noel/Farmer.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../Section3.2/bin/com/noel/Lion.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../Section3.2/bin/com/noel/Main.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../Section3.2/bin/com/noel/Monkey.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../Section3.2/bin/com/noel/Person.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../Section3.2/bin/com/noel/Pig.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../Section3.2/bin/com/noel/Sheep.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../Section3.2/bin/com/noel/Zebra.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../Section3.2/bin/com/noel/Zoo.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../Section3.2/src/com/noel/Cow.java" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../Section3.2/src/com/noel/Elephant.java" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../Section3.2/src/com/noel/Employee.java" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../Section3.2/src/com/noel/Exam.java" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../Section3.2/src/com/noel/Farmer.java" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../Section3.2/src/com/noel/Lion.java" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../Section3.2/src/com/noel/Main.java" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../Section3.2/src/com/noel/Monkey.java" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../Section3.2/src/com/noel/Person.java" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../Section3.2/src/com/noel/Pig.java" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../Section3.2/src/com/noel/Sheep.java" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../Section3.2/src/com/noel/Zebra.java" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../Section3.2/src/com/noel/Zoo.java" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../Section3.3/.classpath" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../Section3.3/.project" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../Section3.3/.settings/org.eclipse.jdt.core.prefs" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../Section3.3/bin/com/noel/Dog.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../Section3.3/bin/com/noel/Employee.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../Section3.3/bin/com/noel/Main.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../Section3.3/bin/com/noel/Person.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../Section3.3/src/com/noel/Dog.java" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../Section3.3/src/com/noel/Employee.java" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../Section3.3/src/com/noel/Main.java" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../Section3.3/src/com/noel/Person.java" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../Section3.4/.classpath" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../Section3.4/.project" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../Section3.4/.settings/org.eclipse.jdt.core.prefs" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../Section3.4/bin/com/noel/Animal.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../Section3.4/bin/com/noel/Ape.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../Section3.4/bin/com/noel/Chimp.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../Section3.4/bin/com/noel/Dog.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../Section3.4/bin/com/noel/Employee.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../Section3.4/bin/com/noel/Fireman.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../Section3.4/bin/com/noel/Human.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../Section3.4/bin/com/noel/Main.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../Section3.4/bin/com/noel/Message.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../Section3.4/bin/com/noel/Monkey.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../Section3.4/bin/com/noel/Pc.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../Section3.4/bin/com/noel/Phone.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../Section3.4/bin/com/noel/Tablet.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../Section3.4/src/com/noel/Animal.java" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../Section3.4/src/com/noel/Ape.java" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../Section3.4/src/com/noel/Employee.java" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../Section3.4/src/com/noel/Main.java" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../Section3.4/src/com/noel/Message.java" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../Section3.4/src/com/noel/Pc.java" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../Section3.4/src/com/noel/Phone.java" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../Section3.4/src/com/noel/Tablet.java" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../Section3.5/.classpath" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../Section3.5/.project" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../Section3.5/.settings/org.eclipse.jdt.core.prefs" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../Section3.5/bin/com/noel/Animal.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../Section3.5/bin/com/noel/Ape.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../Section3.5/bin/com/noel/Cat.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../Section3.5/bin/com/noel/Cow.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../Section3.5/bin/com/noel/Dog.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../Section3.5/bin/com/noel/Donkey.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../Section3.5/bin/com/noel/Duck.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../Section3.5/bin/com/noel/Elephant.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../Section3.5/bin/com/noel/Human.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../Section3.5/bin/com/noel/Main.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../Section3.5/src/com/noel/Animal.java" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../Section3.5/src/com/noel/Ape.java" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../Section3.5/src/com/noel/Cat.java" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../Section3.5/src/com/noel/Dog.java" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../Section3.5/src/com/noel/Donkey.java" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../Section3.5/src/com/noel/Duck.java" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../Section3.5/src/com/noel/Elephant.java" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../Section3.5/src/com/noel/Human.java" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../Section3.5/src/com/noel/Main.java" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../Section3.6-7/.classpath" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../Section3.6-7/.project" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../Section3.6-7/.settings/org.eclipse.jdt.core.prefs" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../Section3.6-7/bin/com/noel/Animal.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../Section3.6-7/bin/com/noel/Ape.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../Section3.6-7/bin/com/noel/Cat.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../Section3.6-7/bin/com/noel/Cow.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../Section3.6-7/bin/com/noel/Dog.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../Section3.6-7/bin/com/noel/Employee.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../Section3.6-7/bin/com/noel/Human.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../Section3.6-7/bin/com/noel/Main.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../Section3.6-7/bin/com/noel/Monkey.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../Section3.6-7/src/com/noel/Animal.java" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../Section3.6-7/src/com/noel/Ape.java" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../Section3.6-7/src/com/noel/Cat.java" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../Section3.6-7/src/com/noel/Dog.java" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../Section3.6-7/src/com/noel/Human.java" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../Section3.6-7/src/com/noel/Main.java" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../Section3.8/.classpath" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../Section3.8/.project" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../Section3.8/.settings/org.eclipse.jdt.core.prefs" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../Section3.8/bin/com/noel/Animal.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../Section3.8/bin/com/noel/Cat.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../Section3.8/bin/com/noel/Change.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../Section3.8/bin/com/noel/Cow.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../Section3.8/bin/com/noel/Dog.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../Section3.8/bin/com/noel/Main.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../Section3.8/bin/com/noel/Sheep.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../Section3.8/src/com/noel/Animal.java" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../Section3.8/src/com/noel/Cat.java" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../Section3.8/src/com/noel/Change.java" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../Section3.8/src/com/noel/Dog.java" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../Section3.8/src/com/noel/Main.java" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../Section4.1/.classpath" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../Section4.1/.project" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../Section4.1/.settings/org.eclipse.jdt.core.prefs" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../Section4.1/bin/com/noel/Dog.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../Section4.1/bin/com/noel/Examples.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../Section4.1/bin/com/noel/Main.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../Section4.1/src/com/noel/Dog.java" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../Section4.1/src/com/noel/Examples.java" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../Section4.1/src/com/noel/Main.java" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../Section4.2/.classpath" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../Section4.2/.project" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../Section4.2/.settings/org.eclipse.jdt.core.prefs" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../Section4.2/bin/com/noel/Cat.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../Section4.2/bin/com/noel/Dog.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../Section4.2/bin/com/noel/Examples.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../Section4.2/bin/com/noel/Main.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../Section4.2/src/com/noel/Cat.java" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../Section4.2/src/com/noel/Dog.java" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../Section4.2/src/com/noel/Examples.java" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../Section4.2/src/com/noel/Main.java" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../Section4.3/.classpath" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../Section4.3/.project" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../Section4.3/.settings/org.eclipse.jdt.core.prefs" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../Section4.3/bin/com/noel/Animal.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../Section4.3/bin/com/noel/Behaviour.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../Section4.3/bin/com/noel/Bird.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../Section4.3/bin/com/noel/Cat.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../Section4.3/bin/com/noel/CockerSpaniel.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../Section4.3/bin/com/noel/Collie.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../Section4.3/bin/com/noel/Dog.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../Section4.3/bin/com/noel/Employee.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../Section4.3/bin/com/noel/Examples.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../Section4.3/bin/com/noel/Hippo.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../Section4.3/bin/com/noel/Main.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../Section4.3/bin/com/noel/Monkey.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../Section4.3/bin/com/noel/Person.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../Section4.3/src/com/noel/Animal.java" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../Section4.3/src/com/noel/Behaviour.java" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../Section4.3/src/com/noel/Cat.java" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../Section4.3/src/com/noel/Dog.java" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../Section4.3/src/com/noel/Employee.java" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../Section4.3/src/com/noel/Examples.java" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../Section4.3/src/com/noel/Main.java" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../Section4.3/src/com/noel/Person.java" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../Section4.4/.classpath" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../Section4.4/.project" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../Section4.4/.settings/org.eclipse.jdt.core.prefs" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../Section4.4/bin/com/noel/Animal.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../Section4.4/bin/com/noel/Cat.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../Section4.4/bin/com/noel/Dog.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../Section4.4/bin/com/noel/Examples.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../Section4.4/bin/com/noel/Main.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../Section4.4/src/com/noel/Cat.java" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../Section4.4/src/com/noel/Dog.java" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../Section4.4/src/com/noel/Examples.java" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../Section4.4/src/com/noel/Main.java" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../Section4.5/.classpath" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../Section4.5/.project" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../Section4.5/.settings/org.eclipse.jdt.core.prefs" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../Section4.5/bin/com/noel/Ape.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../Section4.5/bin/com/noel/Cat.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../Section4.5/bin/com/noel/Dog.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../Section4.5/bin/com/noel/Main.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../Section4.5/bin/com/noel/Person.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../Section4.5/src/com/noel/Ape.java" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../Section4.5/src/com/noel/Cat.java" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../Section4.5/src/com/noel/Dog.java" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../Section4.5/src/com/noel/Main.java" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../Section4.5/src/com/noel/Person.java" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../Section4.6/.classpath" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../Section4.6/.project" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../Section4.6/.settings/org.eclipse.jdt.core.prefs" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../Section4.6/bin/com/noel/Examples.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../Section4.6/bin/com/noel/Main.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../Section4.6/src/com/noel/Examples.java" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../Section4.6/src/com/noel/Main.java" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../Section5.1/.classpath" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../Section5.1/.project" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../Section5.1/.settings/org.eclipse.jdt.core.prefs" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../Section5.1/bin/com/noel/Examples.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../Section5.1/bin/com/noel/Main.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../Section5.1/src/com/noel/Examples.java" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../Section5.1/src/com/noel/Main.java" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../Section5.2/.classpath" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../Section5.2/.project" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../Section5.2/.settings/org.eclipse.jdt.core.prefs" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../Section5.2/bin/com/noel/Example.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../Section5.2/bin/com/noel/Main.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../Section5.2/src/com/noel/Example.java" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../Section5.2/src/com/noel/Main.java" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../Section5.3/.classpath" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../Section5.3/.project" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../Section5.3/.settings/org.eclipse.jdt.core.prefs" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../Section5.3/bin/com/noel/Examples.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../Section5.3/bin/com/noel/Main.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../Section5.3/src/com/noel/Examples.java" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../Section5.3/src/com/noel/Main.java" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../Section5.4/.classpath" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../Section5.4/.project" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../Section5.4/.settings/org.eclipse.jdt.core.prefs" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../Section5.4/bin/com/noel/Main.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../Section5.4/src/com/noel/Main.java" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../Section5.5/.classpath" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../Section5.5/.project" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../Section5.5/.settings/org.eclipse.jdt.core.prefs" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../Section5.5/bin/com/noel/Example.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../Section5.5/bin/com/noel/Main.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../Section5.5/src/com/noel/Example.java" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../Section5.5/src/com/noel/Main.java" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../Section5.7/.classpath" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../Section5.7/.project" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../Section5.7/.settings/org.eclipse.jdt.core.prefs" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../Section5.7/bin/com/noel/Inners.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../Section5.7/bin/com/noel/Main.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../Section5.7/src/com/noel/Inners.java" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../Section5.7/src/com/noel/Main.java" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../Section6.1/.classpath" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../Section6.1/.project" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../Section6.1/.settings/org.eclipse.jdt.core.prefs" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../Section6.1/bin/com/microsoft/Accountant.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../Section6.1/bin/com/noel/Animal.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../Section6.1/bin/com/noel/Ape.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../Section6.1/bin/com/noel/Dog.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../Section6.1/bin/com/noel/Employee.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../Section6.1/bin/com/noel/EnglishRose.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../Section6.1/bin/com/noel/Fireman.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../Section6.1/bin/com/noel/Flower.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../Section6.1/bin/com/noel/Human.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../Section6.1/bin/com/noel/Main.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../Section6.1/bin/com/noel/OilRigFireman.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../Section6.1/bin/com/noel/Plant.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../Section6.1/bin/com/noel/Rose.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../Section6.1/bin/com/noel/Secretary.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../Section6.1/src/com/microsoft/Accountant.java" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../Section6.1/src/com/noel/Animal.java" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../Section6.1/src/com/noel/Ape.java" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../Section6.1/src/com/noel/Employee.java" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../Section6.1/src/com/noel/Main.java" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../Section6.1/src/com/noel/Plant.java" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../Section6.2/.classpath" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../Section6.2/.project" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../Section6.2/.settings/org.eclipse.jdt.core.prefs" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../Section6.2/bin/com/noel/Animal.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../Section6.2/bin/com/noel/Ape.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../Section6.2/bin/com/noel/Bat.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../Section6.2/bin/com/noel/Behaviour.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../Section6.2/bin/com/noel/Cat.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../Section6.2/bin/com/noel/Deer.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../Section6.2/bin/com/noel/Dog.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../Section6.2/bin/com/noel/Duck.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../Section6.2/bin/com/noel/Examples.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../Section6.2/bin/com/noel/Fish.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../Section6.2/bin/com/noel/Fly.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../Section6.2/bin/com/noel/Human.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../Section6.2/bin/com/noel/Interface1.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../Section6.2/bin/com/noel/Interface2.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../Section6.2/bin/com/noel/InterfaceTypes.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../Section6.2/bin/com/noel/Main.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../Section6.2/bin/com/noel/Move.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../Section6.2/bin/com/noel/Run.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../Section6.2/bin/com/noel/Swim.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../Section6.2/bin/com/noel/Test.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../Section6.2/src/com/noel/Animal.java" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../Section6.2/src/com/noel/Ape.java" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../Section6.2/src/com/noel/Bat.java" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../Section6.2/src/com/noel/Behaviour.java" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../Section6.2/src/com/noel/Deer.java" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../Section6.2/src/com/noel/Duck.java" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../Section6.2/src/com/noel/Examples.java" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../Section6.2/src/com/noel/Fish.java" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../Section6.2/src/com/noel/Fly.java" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../Section6.2/src/com/noel/Interface1.java" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../Section6.2/src/com/noel/InterfaceTypes.java" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../Section6.2/src/com/noel/Main.java" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../Section6.2/src/com/noel/Move.java" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../Section6.2/src/com/noel/Swim.java" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../Section6.2/src/com/noel/Test.java" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../Section6.2b/.classpath" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../Section6.2b/.project" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../Section6.2b/.settings/org.eclipse.jdt.core.prefs" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../Section6.2b/bin/com/noel/Athlete.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../Section6.2b/bin/com/noel/Behaviour.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../Section6.2b/bin/com/noel/Bird.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../Section6.2b/bin/com/noel/Dog.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../Section6.2b/bin/com/noel/Examples.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../Section6.2b/bin/com/noel/Fish.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../Section6.2b/bin/com/noel/Interface1.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../Section6.2b/bin/com/noel/Jumpable.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../Section6.2b/bin/com/noel/Main.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../Section6.2b/bin/com/noel/Mood.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../Section6.2b/bin/com/noel/Moveable.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../Section6.2b/bin/com/noel/MyInterface.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../Section6.2b/bin/com/noel/Swim.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../Section6.2b/bin/com/noel/Test.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../Section6.2b/bin/com/noel/interface2.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../Section6.2b/bin/com/noel/interface3.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../Section6.2b/src/com/noel/Athlete.java" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../Section6.2b/src/com/noel/Behaviour.java" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../Section6.2b/src/com/noel/Bird.java" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../Section6.2b/src/com/noel/Dog.java" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../Section6.2b/src/com/noel/Examples.java" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../Section6.2b/src/com/noel/Fish.java" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../Section6.2b/src/com/noel/Interface1.java" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../Section6.2b/src/com/noel/Jumpable.java" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../Section6.2b/src/com/noel/Main.java" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../Section6.2b/src/com/noel/MyInterface.java" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../Section6.2b/src/com/noel/Swim.java" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../Section6.2b/src/com/noel/Test.java" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../Section6.3/.classpath" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../Section6.3/.project" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../Section6.3/.settings/org.eclipse.jdt.core.prefs" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../Section6.3/bin/com/noel/Accountant.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../Section6.3/bin/com/noel/Employee.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../Section6.3/bin/com/noel/Fight.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../Section6.3/bin/com/noel/Fireman.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../Section6.3/bin/com/noel/Main.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../Section6.3/bin/com/noel/Person.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../Section6.3/bin/com/noel/Work.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../Section6.3/src/com/noel/Employee.java" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../Section6.3/src/com/noel/Fight.java" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../Section6.3/src/com/noel/Main.java" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../Section6.3/src/com/noel/Person.java" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../Section6.3/src/com/noel/Work.java" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../Section6.4/.classpath" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../Section6.4/.project" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../Section6.4/.settings/org.eclipse.jdt.core.prefs" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../Section6.4/bin/com/noel/Animal.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../Section6.4/bin/com/noel/Behaviour.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../Section6.4/bin/com/noel/Cat.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../Section6.4/bin/com/noel/Chicken.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../Section6.4/bin/com/noel/Cow.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../Section6.4/bin/com/noel/Dog.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../Section6.4/bin/com/noel/Main.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../Section6.4/bin/com/noel/Pig.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../Section6.4/bin/com/noel/Sheep.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../Section6.4/src/com/noel/Animal.java" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../Section6.4/src/com/noel/Behaviour.java" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../Section6.4/src/com/noel/Cat.java" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../Section6.4/src/com/noel/Dog.java" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../Section6.4/src/com/noel/Main.java" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../Section6.5/.classpath" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../Section6.5/.project" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../Section6.5/.settings/org.eclipse.jdt.core.prefs" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../Section6.5/bin/com/noel/Accountant.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../Section6.5/bin/com/noel/Animal.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../Section6.5/bin/com/noel/Ape.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../Section6.5/bin/com/noel/Behaviour.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../Section6.5/bin/com/noel/Boat.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../Section6.5/bin/com/noel/Building.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../Section6.5/bin/com/noel/Car.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../Section6.5/bin/com/noel/Dog.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../Section6.5/bin/com/noel/Employee.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../Section6.5/bin/com/noel/Ferrari.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../Section6.5/bin/com/noel/House.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../Section6.5/bin/com/noel/Human.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../Section6.5/bin/com/noel/Main.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../Section6.5/bin/com/noel/Terrier.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../Section6.5/bin/com/noel/Vehicle.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../Section6.5/src/com/noel/Animal.java" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../Section6.5/src/com/noel/Ape.java" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../Section6.5/src/com/noel/Behaviour.java" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../Section6.5/src/com/noel/Building.java" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../Section6.5/src/com/noel/Employee.java" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../Section6.5/src/com/noel/Main.java" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../Section6.5/src/com/noel/Vehicle.java" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../Section6.7/.classpath" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../Section6.7/.project" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../Section6.7/.settings/org.eclipse.jdt.core.prefs" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../Section6.7/bin/com/noel/Behaviour.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../Section6.7/bin/com/noel/Dog.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../Section6.7/bin/com/noel/Employee.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../Section6.7/bin/com/noel/Main.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../Section6.7/bin/com/noel/Manners.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../Section6.7/bin/com/noel/Validate.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../Section6.7/src/com/noel/Employee.java" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../Section6.7/src/com/noel/Main.java" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../Seven/.classpath" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../Seven/.project" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../Seven/.settings/org.eclipse.jdt.core.prefs" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../Seven/bin/com/android/Main.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../Seven/src/com/android/Main.java" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../Six/.classpath" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../Six/.project" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../Six/.settings/org.eclipse.jdt.core.prefs" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../Six/bin/com/android/Main.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../Six/src/com/android/Main.java" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../Ten/.classpath" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../Ten/.project" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../Ten/.settings/org.eclipse.jdt.core.prefs" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../Ten/bin/com/android/Main.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../Ten/src/com/android/Main.java" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../Test/.classpath" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../Test/.project" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../Test/.settings/org.eclipse.jdt.core.prefs" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../Test/bin/Class.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../Test/bin/Dog.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../Test/bin/Main.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../Test/bin/com/animal/Cat.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../Test/bin/com/animal/Person.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../Test/src/Dog.java" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../Test/src/Main.java" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../Test/src/com/animal/Cat.java" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../Test/src/com/animal/Person.java" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../ThirtyThree/.classpath" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../ThirtyThree/.project" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../ThirtyThree/.settings/org.eclipse.jdt.core.prefs" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../ThirtyThree/bin/com/android/Cat.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../ThirtyThree/bin/com/android/Dog.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../ThirtyThree/bin/com/android/Examples.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../ThirtyThree/bin/com/android/Main.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../ThirtyThree/bin/com/android/Siamese.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../ThirtyThree/src/com/android/Cat.java" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../ThirtyThree/src/com/android/Dog.java" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../ThirtyThree/src/com/android/Examples.java" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../ThirtyThree/src/com/android/Main.java" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../Three/.classpath" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../Three/.project" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../Three/.settings/org.eclipse.jdt.core.prefs" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../Three/bin/com/android/Main.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../Three/src/com/android/Main.java" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../Tweleve/.classpath" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../Tweleve/.project" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../Tweleve/.settings/org.eclipse.jdt.core.prefs" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../Tweleve/bin/com/android/Main.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../Tweleve/src/com/android/Main.java" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../Twenty/.classpath" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../Twenty/.project" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../Twenty/.settings/org.eclipse.jdt.core.prefs" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../Twenty/bin/com/android/Main.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../Twenty/bin/com/android/Person.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../Twenty/src/com/android/Main.java" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../Twenty/src/com/android/Person.java" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../TwistInTale6.1/.classpath" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../TwistInTale6.1/.project" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../TwistInTale6.1/.settings/org.eclipse.jdt.core.prefs" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../TwistInTale6.1/bin/com/noel/Employee.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../TwistInTale6.1/bin/com/noel/Main.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../TwistInTale6.1/src/com/noel/Employee.java" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../TwistInTale6.1/src/com/noel/Main.java" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../Two/.classpath" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../Two/.project" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../Two/.settings/org.eclipse.jdt.core.prefs" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../Two/bin/com/android/Main.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../Two/src/com/android/Main.java" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../f_Fifteen/.classpath" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../f_Fifteen/.project" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../f_Fifteen/.settings/org.eclipse.jdt.core.prefs" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../f_Fifteen/bin/com/android/Main.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../f_Fifteen/src/com/android/Main.java" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../f_Fourteen/.classpath" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../f_Fourteen/.project" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../f_Fourteen/.settings/org.eclipse.jdt.core.prefs" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../f_Fourteen/bin/com/android/Main.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../f_Fourteen/src/com/android/Main.java" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../f_Nineteen/.classpath" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../f_Nineteen/.project" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../f_Nineteen/.settings/org.eclipse.jdt.core.prefs" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../f_Nineteen/bin/com/android/Cat.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../f_Nineteen/bin/com/android/Dog.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../f_Nineteen/bin/com/android/Main.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../f_Nineteen/bin/com/android/Person.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../f_Nineteen/src/com/android/Cat.java" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../f_Nineteen/src/com/android/Dog.java" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../f_Nineteen/src/com/android/Main.java" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../f_Nineteen/src/com/android/Person.java" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../f_Seventeen/.classpath" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../f_Seventeen/.project" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../f_Seventeen/.settings/org.eclipse.jdt.core.prefs" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../f_Seventeen/bin/com/android/Main.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../f_Seventeen/src/com/android/Main.java" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../f_Sixteen/.classpath" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../f_Sixteen/.project" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../f_Sixteen/.settings/org.eclipse.jdt.core.prefs" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../f_Sixteen/bin/com/android/Main.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../f_Sixteen/src/com/android/Main.java" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../f_Thirty/.classpath" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../f_Thirty/.project" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../f_Thirty/.settings/org.eclipse.jdt.core.prefs" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../f_Thirty/bin/com/android/Cat.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../f_Thirty/bin/com/android/Dog.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../f_Thirty/bin/com/android/Main.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../f_Thirty/bin/com/employee/CockerSpaniel.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../f_Thirty/bin/com/employee/Test.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../f_Thirty/src/com/android/Dog.java" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../f_Thirty/src/com/android/Main.java" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../f_Thirty/src/com/employee/Test.java" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../f_ThirtyFive/.classpath" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../f_ThirtyFive/.project" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../f_ThirtyFive/.settings/org.eclipse.jdt.core.prefs" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../f_ThirtyFive/bin/com/android/Dog.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../f_ThirtyFive/bin/com/android/Examples.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../f_ThirtyFive/bin/com/android/Main.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../f_ThirtyFive/src/com/android/Dog.java" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../f_ThirtyFive/src/com/android/Examples.java" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../f_ThirtyFive/src/com/android/Main.java" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../f_ThirtyFour/.classpath" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../f_ThirtyFour/.project" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../f_ThirtyFour/.settings/org.eclipse.jdt.core.prefs" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../f_ThirtyFour/bin/com/android/Accountant.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../f_ThirtyFour/bin/com/android/Animal.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../f_ThirtyFour/bin/com/android/Behaviour.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../f_ThirtyFour/bin/com/android/Cat.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../f_ThirtyFour/bin/com/android/Dog.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../f_ThirtyFour/bin/com/android/Employee.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../f_ThirtyFour/bin/com/android/Examples.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../f_ThirtyFour/bin/com/android/Insect.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../f_ThirtyFour/bin/com/android/Main.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../f_ThirtyFour/bin/com/android/Movement.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../f_ThirtyFour/bin/com/android/Person.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../f_ThirtyFour/bin/com/android/Soilder.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../f_ThirtyFour/bin/com/android/Warrior.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../f_ThirtyFour/bin/com/android/Wizard.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../f_ThirtyFour/bin/com/android/forensicAccount.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../f_ThirtyFour/src/com/android/Animal.java" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../f_ThirtyFour/src/com/android/Behaviour.java" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../f_ThirtyFour/src/com/android/Examples.java" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../f_ThirtyFour/src/com/android/Insect.java" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../f_ThirtyFour/src/com/android/Main.java" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../f_ThirtyFour/src/com/android/Movement.java" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../f_ThirtyFour/src/com/android/Person.java" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../f_ThirtyFour/src/com/android/Soilder.java" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../f_ThirtyFour/src/com/android/Warrior.java" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../f_ThirtyOne/.classpath" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../f_ThirtyOne/.project" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../f_ThirtyOne/.settings/org.eclipse.jdt.core.prefs" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../f_ThirtyOne/bin/com/android/Main.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../f_ThirtyOne/bin/com/android/Trainee.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../f_ThirtyOne/src/com/android/Main.java" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../f_ThirtyOne/src/com/android/Trainee.java" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../f_ThirtySix/.classpath" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../f_ThirtySix/.project" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../f_ThirtySix/.settings/org.eclipse.jdt.core.prefs" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../f_ThirtySix/bin/f_ThirtySix/Animal.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../f_ThirtySix/bin/f_ThirtySix/Cat.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../f_ThirtySix/bin/f_ThirtySix/Dog.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../f_ThirtySix/bin/f_ThirtySix/Donkey.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../f_ThirtySix/bin/f_ThirtySix/Examples.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../f_ThirtySix/bin/f_ThirtySix/Main.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../f_ThirtySix/bin/f_ThirtySix/Siamese.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../f_ThirtySix/src/f_ThirtySix/Animal.java" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../f_ThirtySix/src/f_ThirtySix/Examples.java" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../f_ThirtySix/src/f_ThirtySix/Main.java" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../f_ThirtyTwo/.classpath" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../f_ThirtyTwo/.project" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../f_ThirtyTwo/.settings/org.eclipse.jdt.core.prefs" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../f_ThirtyTwo/bin/com/android/Cat.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../f_ThirtyTwo/bin/com/android/Dog.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../f_ThirtyTwo/bin/com/android/Examples.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../f_ThirtyTwo/bin/com/android/Main.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../f_ThirtyTwo/src/com/android/Dog.java" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../f_ThirtyTwo/src/com/android/Examples.java" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../f_ThirtyTwo/src/com/android/Main.java" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../f_Thirty_Eight/.classpath" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../f_Thirty_Eight/.project" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../f_Thirty_Eight/.settings/org.eclipse.jdt.core.prefs" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../f_Thirty_Eight/bin/f_Thirty_Eight/Animal.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../f_Thirty_Eight/bin/f_Thirty_Eight/Main.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../f_Thirty_Eight/src/f_Thirty_Eight/Animal.java" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../f_Thirty_Eight/src/f_Thirty_Eight/Main.java" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../f_Thirty_Seven/.classpath" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../f_Thirty_Seven/.project" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../f_Thirty_Seven/.settings/org.eclipse.jdt.core.prefs" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../f_Thirty_Seven/bin/f_Thirty_Seven/Main.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../f_Thirty_Seven/src/f_Thirty_Seven/Main.java" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../f_TwentyEight/.classpath" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../f_TwentyEight/.project" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../f_TwentyEight/.settings/org.eclipse.jdt.core.prefs" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../f_TwentyEight/bin/com/android/Animal.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../f_TwentyEight/bin/com/android/Dog.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../f_TwentyEight/bin/com/android/Main.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../f_TwentyEight/src/com/android/Animal.java" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../f_TwentyEight/src/com/android/Main.java" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../f_TwentyFive/.classpath" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../f_TwentyFive/.project" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../f_TwentyFive/.settings/org.eclipse.jdt.core.prefs" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../f_TwentyFive/bin/com/android/Dog.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../f_TwentyFive/bin/com/android/Main.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../f_TwentyFive/src/com/android/Dog.java" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../f_TwentyFive/src/com/android/Main.java" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../f_TwentyFour/.classpath" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../f_TwentyFour/.project" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../f_TwentyFour/.settings/org.eclipse.jdt.core.prefs" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../f_TwentyFour/bin/com/android/Cat.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../f_TwentyFour/bin/com/android/Dog.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../f_TwentyFour/bin/com/android/Main.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../f_TwentyFour/bin/com/android/Maths.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../f_TwentyFour/bin/com/android/Person.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../f_TwentyFour/src/com/android/Cat.java" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../f_TwentyFour/src/com/android/Dog.java" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../f_TwentyFour/src/com/android/Main.java" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../f_TwentyFour/src/com/android/Maths.java" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../f_TwentyFour/src/com/android/Person.java" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../f_TwentyOne/.classpath" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../f_TwentyOne/.project" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../f_TwentyOne/.settings/org.eclipse.jdt.core.prefs" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../f_TwentyOne/bin/com/androide/Cat.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../f_TwentyOne/bin/com/androide/Dog.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../f_TwentyOne/bin/com/androide/Main.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../f_TwentyOne/bin/com/androide/Swan.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../f_TwentyOne/src/com/androide/Cat.java" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../f_TwentyOne/src/com/androide/Dog.java" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../f_TwentyOne/src/com/androide/Main.java" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../f_TwentyOne/src/com/androide/Swan.java" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../f_TwentySeven/.classpath" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../f_TwentySeven/.project" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../f_TwentySeven/.settings/org.eclipse.jdt.core.prefs" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../f_TwentySeven/bin/com/android/Accountant.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../f_TwentySeven/bin/com/android/Animal.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../f_TwentySeven/bin/com/android/Ape.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../f_TwentySeven/bin/com/android/ChartedAccount.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../f_TwentySeven/bin/com/android/Employee.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../f_TwentySeven/bin/com/android/ForensicAccountant.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../f_TwentySeven/bin/com/android/Human.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../f_TwentySeven/bin/com/android/HumanResources.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../f_TwentySeven/bin/com/android/Main.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../f_TwentySeven/bin/com/android/Mammal.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../f_TwentySeven/bin/com/android/Numbers.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../f_TwentySeven/bin/com/android/One.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../f_TwentySeven/bin/com/android/Three.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../f_TwentySeven/bin/com/android/Two.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../f_TwentySeven/src/com/android/Animal.java" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../f_TwentySeven/src/com/android/Employee.java" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../f_TwentySeven/src/com/android/Main.java" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../f_TwentySeven/src/com/android/Numbers.java" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../f_TwentySix/.classpath" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../f_TwentySix/.project" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../f_TwentySix/.settings/org.eclipse.jdt.core.prefs" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../f_TwentySix/bin/com/android/Animal.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../f_TwentySix/bin/com/android/Ape.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../f_TwentySix/bin/com/android/Cow.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../f_TwentySix/bin/com/android/Fly.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../f_TwentySix/bin/com/android/Main.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../f_TwentySix/bin/com/android/Pig.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../f_TwentySix/bin/com/android/Shark.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../f_TwentySix/bin/com/android/Sheep.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../f_TwentySix/bin/com/android/Swan.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../f_TwentySix/src/com/android/Animal.java" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../f_TwentySix/src/com/android/Ape.java" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../f_TwentySix/src/com/android/Main.java" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../f_TwentyThree/.classpath" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../f_TwentyThree/.project" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../f_TwentyThree/.settings/org.eclipse.jdt.core.prefs" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../f_TwentyThree/bin/com/android/Cat.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../f_TwentyThree/bin/com/android/Dog.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../f_TwentyThree/bin/com/android/Main.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../f_TwentyThree/bin/com/android/Person.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../f_TwentyThree/bin/com/android/Pig.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../f_TwentyThree/bin/com/android/Swan.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../f_TwentyThree/src/com/android/Cat.java" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../f_TwentyThree/src/com/android/Dog.java" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../f_TwentyThree/src/com/android/Main.java" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../f_TwentyThree/src/com/android/Person.java" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../f_TwentyThree/src/com/android/Pig.java" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../f_TwentyThree/src/com/android/Swan.java" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../f_TwentyTwo/.classpath" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../f_TwentyTwo/.project" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../f_TwentyTwo/.settings/org.eclipse.jdt.core.prefs" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../f_TwentyTwo/bin/com/android/Main.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../f_TwentyTwo/bin/com/android/Maths.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../f_TwentyTwo/bin/com/android/Person.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../f_TwentyTwo/src/com/android/Main.java" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../f_TwentyTwo/src/com/android/Maths.java" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../f_TwentyTwo/src/com/android/Person.java" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../f_eighteen/.classpath" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../f_eighteen/.project" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../f_eighteen/.settings/org.eclipse.jdt.core.prefs" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../f_eighteen/bin/com/android/Dog.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../f_eighteen/bin/com/android/Main.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../f_eighteen/src/com/android/Dog.java" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../f_eighteen/src/com/android/Main.java" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../test6/.classpath" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../test6/.project" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../test6/.settings/org.eclipse.jdt.core.prefs" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../test6/bin/test6/Animal.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../test6/bin/test6/Behaviour.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../test6/bin/test6/Dog.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../test6/bin/test6/Employee.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../test6/bin/test6/FinalInterface.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../test6/bin/test6/Main.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../test6/bin/test6/Spaniel$Movement.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../test6/bin/test6/Spaniel.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../test6/bin/test6/interface1.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../test6/bin/test6/interface2.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../test6/bin/test6/mood.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../test6/src/test6/Animal.java" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../test6/src/test6/Behaviour.java" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../test6/src/test6/Employee.java" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../test6/src/test6/Main.java" afterPath="" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../.idea/misc.xml" afterPath="$PROJECT_DIR$/../.idea/misc.xml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../.idea/modules.xml" afterPath="$PROJECT_DIR$/../.idea/modules.xml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../.idea/workspace.xml" afterPath="$PROJECT_DIR$/../.idea/workspace.xml" />
+    </list>
+    <ignored path="$PROJECT_DIR$/out/" />
+    <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
+    <option name="TRACKING_ENABLED" value="true" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="CreatePatchCommitExecutor">
+    <option name="PATCH_PATH" value="" />
+  </component>
+  <component name="ExecutionTargetManager" SELECTED_TARGET="default_target" />
+  <component name="FileEditorManager">
+    <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
+      <file leaf-file-name="Main.java" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/eu39/src/test2/com/Main.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="255">
+              <caret line="17" column="9" lean-forward="false" selection-start-line="17" selection-start-column="9" selection-end-line="17" selection-end-column="9" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+    </leaf>
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/.." />
+  </component>
+  <component name="GradleLocalSettings">
+    <option name="externalProjectsViewState">
+      <projects_view />
+    </option>
+  </component>
+  <component name="IdeDocumentHistory">
+    <option name="CHANGED_PATHS">
+      <list>
+        <option value="$PROJECT_DIR$/src/test2/com/Main.java" />
+        <option value="$PROJECT_DIR$/eu39/src/test2/com/TestClass.java" />
+        <option value="$PROJECT_DIR$/eu39/src/test2/com/Main.java" />
+      </list>
+    </option>
+  </component>
+  <component name="ProjectFrameBounds">
+    <option name="width" value="1680" />
+    <option name="height" value="1050" />
+  </component>
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectView">
+    <navigator currentView="ProjectPane" proportions="" version="1">
+      <flattenPackages />
+      <showMembers />
+      <showModules />
+      <showLibraryContents />
+      <hideEmptyPackages />
+      <abbreviatePackageNames />
+      <autoscrollToSource />
+      <autoscrollFromSource />
+      <sortByType />
+      <manualOrder />
+      <foldersAlwaysOnTop value="true" />
+    </navigator>
+    <panes>
+      <pane id="Scope" />
+      <pane id="PackagesPane" />
+      <pane id="Scratches" />
+      <pane id="ProjectPane">
+        <subPane>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="Test2" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="eu39" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="Test2" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="eu39" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="src" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="com" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+          </PATH>
+        </subPane>
+      </pane>
+    </panes>
+  </component>
+  <component name="PropertiesComponent">
+    <property name="settings.editor.selected.configurable" value="preferences.externalDependencies" />
+    <property name="FullScreen" value="true" />
+  </component>
+  <component name="RecentsManager">
+    <key name="CreateClassDialog.RecentsKey">
+      <recent name="test2.com" />
+    </key>
+  </component>
+  <component name="RunManager" selected="Application.eu39">
+    <configuration default="true" type="#org.jetbrains.idea.devkit.run.PluginConfigurationType" factoryName="Plugin">
+      <module name="" />
+      <option name="VM_PARAMETERS" value="-Xmx512m -Xms256m -XX:MaxPermSize=250m -ea" />
+      <option name="PROGRAM_PARAMETERS" />
+      <predefined_log_file id="idea.log" enabled="true" />
+      <method />
+    </configuration>
+    <configuration default="true" type="AndroidRunConfigurationType" factoryName="Android App">
+      <module name="" />
+      <option name="DEPLOY" value="true" />
+      <option name="ARTIFACT_NAME" value="" />
+      <option name="PM_INSTALL_OPTIONS" value="" />
+      <option name="ACTIVITY_EXTRA_FLAGS" value="" />
+      <option name="MODE" value="default_activity" />
+      <option name="TARGET_SELECTION_MODE" value="SHOW_DIALOG" />
+      <option name="PREFERRED_AVD" value="" />
+      <option name="CLEAR_LOGCAT" value="false" />
+      <option name="SHOW_LOGCAT_AUTOMATICALLY" value="false" />
+      <option name="SKIP_NOOP_APK_INSTALLATIONS" value="true" />
+      <option name="FORCE_STOP_RUNNING_APP" value="true" />
+      <option name="DEBUGGER_TYPE" value="Java" />
+      <option name="USE_LAST_SELECTED_DEVICE" value="false" />
+      <option name="PREFERRED_AVD" value="" />
+      <Java />
+      <Profilers>
+        <option name="ENABLE_ADVANCED_PROFILING" value="true" />
+        <option name="GAPID_ENABLED" value="false" />
+        <option name="GAPID_DISABLE_PCS" value="false" />
+        <option name="SUPPORT_LIB_ENABLED" value="true" />
+        <option name="INSTRUMENTATION_ENABLED" value="true" />
+      </Profilers>
+      <option name="DEEP_LINK" value="" />
+      <option name="ACTIVITY_CLASS" value="" />
+      <method />
+    </configuration>
+    <configuration default="true" type="AndroidTestRunConfigurationType" factoryName="Android Tests">
+      <module name="" />
+      <option name="TESTING_TYPE" value="0" />
+      <option name="INSTRUMENTATION_RUNNER_CLASS" value="" />
+      <option name="METHOD_NAME" value="" />
+      <option name="CLASS_NAME" value="" />
+      <option name="PACKAGE_NAME" value="" />
+      <option name="EXTRA_OPTIONS" value="" />
+      <option name="TARGET_SELECTION_MODE" value="SHOW_DIALOG" />
+      <option name="PREFERRED_AVD" value="" />
+      <option name="CLEAR_LOGCAT" value="false" />
+      <option name="SHOW_LOGCAT_AUTOMATICALLY" value="false" />
+      <option name="SKIP_NOOP_APK_INSTALLATIONS" value="true" />
+      <option name="FORCE_STOP_RUNNING_APP" value="true" />
+      <option name="DEBUGGER_TYPE" value="Java" />
+      <option name="USE_LAST_SELECTED_DEVICE" value="false" />
+      <option name="PREFERRED_AVD" value="" />
+      <Java />
+      <Profilers>
+        <option name="ENABLE_ADVANCED_PROFILING" value="true" />
+        <option name="GAPID_ENABLED" value="false" />
+        <option name="GAPID_DISABLE_PCS" value="false" />
+        <option name="SUPPORT_LIB_ENABLED" value="true" />
+        <option name="INSTRUMENTATION_ENABLED" value="true" />
+      </Profilers>
+      <method />
+    </configuration>
+    <configuration default="true" type="Applet" factoryName="Applet">
+      <option name="HTML_USED" value="false" />
+      <option name="WIDTH" value="400" />
+      <option name="HEIGHT" value="300" />
+      <option name="POLICY_FILE" value="$APPLICATION_HOME_DIR$/bin/appletviewer.policy" />
+      <module />
+      <method />
+    </configuration>
+    <configuration default="true" type="Application" factoryName="Application">
+      <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea" />
+      <option name="MAIN_CLASS_NAME" />
+      <option name="VM_PARAMETERS" />
+      <option name="PROGRAM_PARAMETERS" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
+      <option name="ALTERNATIVE_JRE_PATH" />
+      <option name="ENABLE_SWING_INSPECTOR" value="false" />
+      <option name="ENV_VARIABLES" />
+      <option name="PASS_PARENT_ENVS" value="true" />
+      <module name="" />
+      <envs />
+      <method />
+    </configuration>
+    <configuration default="true" type="GradleRunConfiguration" factoryName="Gradle">
+      <ExternalSystemSettings>
+        <option name="executionName" />
+        <option name="externalProjectPath" />
+        <option name="externalSystemIdString" value="GRADLE" />
+        <option name="scriptParameters" />
+        <option name="taskDescriptions">
+          <list />
+        </option>
+        <option name="taskNames">
+          <list />
+        </option>
+        <option name="vmOptions" />
+      </ExternalSystemSettings>
+      <method />
+    </configuration>
+    <configuration default="true" type="JUnit" factoryName="JUnit">
+      <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea" />
+      <module name="" />
+      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
+      <option name="ALTERNATIVE_JRE_PATH" />
+      <option name="PACKAGE_NAME" />
+      <option name="MAIN_CLASS_NAME" />
+      <option name="METHOD_NAME" />
+      <option name="TEST_OBJECT" value="class" />
+      <option name="VM_PARAMETERS" value="-ea" />
+      <option name="PARAMETERS" />
+      <option name="WORKING_DIRECTORY" value="$MODULE_DIR$" />
+      <option name="ENV_VARIABLES" />
+      <option name="PASS_PARENT_ENVS" value="true" />
+      <option name="TEST_SEARCH_SCOPE">
+        <value defaultName="singleModule" />
+      </option>
+      <envs />
+      <patterns />
+      <method />
+    </configuration>
+    <configuration default="true" type="JarApplication" factoryName="JAR Application">
+      <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea" />
+      <envs />
+      <method />
+    </configuration>
+    <configuration default="true" type="Java Scratch" factoryName="Java Scratch">
+      <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea" />
+      <option name="SCRATCH_FILE_ID" value="0" />
+      <option name="MAIN_CLASS_NAME" />
+      <option name="VM_PARAMETERS" />
+      <option name="PROGRAM_PARAMETERS" />
+      <option name="WORKING_DIRECTORY" />
+      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
+      <option name="ALTERNATIVE_JRE_PATH" />
+      <option name="ENABLE_SWING_INSPECTOR" value="false" />
+      <option name="ENV_VARIABLES" />
+      <option name="PASS_PARENT_ENVS" value="true" />
+      <module name="" />
+      <envs />
+      <method />
+    </configuration>
+    <configuration default="true" type="JetRunConfigurationType" factoryName="Kotlin">
+      <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea" />
+      <option name="MAIN_CLASS_NAME" />
+      <option name="VM_PARAMETERS" />
+      <option name="PROGRAM_PARAMETERS" />
+      <option name="WORKING_DIRECTORY" />
+      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
+      <option name="ALTERNATIVE_JRE_PATH" />
+      <option name="PASS_PARENT_ENVS" value="true" />
+      <module name="Test2" />
+      <envs />
+      <method />
+    </configuration>
+    <configuration default="true" type="KotlinStandaloneScriptRunConfigurationType" factoryName="Kotlin script">
+      <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea" />
+      <option name="filePath" />
+      <option name="vmParameters" />
+      <option name="alternativeJrePath" />
+      <option name="programParameters" />
+      <option name="passParentEnvs" value="true" />
+      <option name="workingDirectory" />
+      <option name="isAlternativeJrePathEnabled" value="false" />
+      <envs />
+      <method />
+    </configuration>
+    <configuration default="true" type="Remote" factoryName="Remote">
+      <option name="USE_SOCKET_TRANSPORT" value="true" />
+      <option name="SERVER_MODE" value="false" />
+      <option name="SHMEM_ADDRESS" value="javadebug" />
+      <option name="HOST" value="localhost" />
+      <option name="PORT" value="5005" />
+      <method />
+    </configuration>
+    <configuration default="true" type="TestNG" factoryName="TestNG">
+      <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea" />
+      <module name="" />
+      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
+      <option name="ALTERNATIVE_JRE_PATH" />
+      <option name="SUITE_NAME" />
+      <option name="PACKAGE_NAME" />
+      <option name="MAIN_CLASS_NAME" />
+      <option name="METHOD_NAME" />
+      <option name="GROUP_NAME" />
+      <option name="TEST_OBJECT" value="CLASS" />
+      <option name="VM_PARAMETERS" value="-ea" />
+      <option name="PARAMETERS" />
+      <option name="WORKING_DIRECTORY" value="$MODULE_DIR$" />
+      <option name="OUTPUT_DIRECTORY" />
+      <option name="ANNOTATION_TYPE" />
+      <option name="ENV_VARIABLES" />
+      <option name="PASS_PARENT_ENVS" value="true" />
+      <option name="TEST_SEARCH_SCOPE">
+        <value defaultName="singleModule" />
+      </option>
+      <option name="USE_DEFAULT_REPORTERS" value="false" />
+      <option name="PROPERTIES_FILE" />
+      <envs />
+      <properties />
+      <listeners />
+      <method />
+    </configuration>
+    <list size="1">
+      <item index="0" class="java.lang.String" itemvalue="Application.eu39" />
+    </list>
+  </component>
+  <component name="ShelveChangesManager" show_recycled="false">
+    <option name="remove_strategy" value="false" />
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="7ad5b81b-d457-4741-876e-5d16f86f226b" name="Default" comment="" />
+      <created>1484659709338</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1484659709338</updated>
+    </task>
+    <servers />
+  </component>
+  <component name="ToolWindowManager">
+    <frame x="0" y="0" width="1680" height="1050" extended-state="0" />
+    <editor active="false" />
+    <layout>
+      <window_info id="Palette" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
+      <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
+      <window_info id="Nl-Palette" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
+      <window_info id="Palette&#9;" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
+      <window_info id="Image Layers" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
+      <window_info id="Capture Analysis" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
+      <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.32901296" sideWeight="0.5220238" order="7" side_tool="true" content_ui="tabs" />
+      <window_info id="TMC Test Results" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
+      <window_info id="Maven Projects" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
+      <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32901296" sideWeight="0.4779762" order="2" side_tool="false" content_ui="tabs" />
+      <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
+      <window_info id="Properties" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
+      <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
+      <window_info id="Capture Tool" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
+      <window_info id="Designer" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
+      <window_info id="Project" active="true" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.24940476" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
+      <window_info id="TMC Project List" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
+      <window_info id="Structure" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
+      <window_info id="Ant Build" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
+      <window_info id="UI Designer" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
+      <window_info id="Theme Preview" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
+      <window_info id="Debug" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
+      <window_info id="Favorites" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="true" content_ui="tabs" />
+      <window_info id="Cvs" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="4" side_tool="false" content_ui="tabs" />
+      <window_info id="Message" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
+      <window_info id="Commander" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
+      <window_info id="Hierarchy" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="2" side_tool="false" content_ui="combo" />
+      <window_info id="Messages" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32901296" sideWeight="0.41011906" order="7" side_tool="false" content_ui="tabs" />
+      <window_info id="Inspection" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="5" side_tool="false" content_ui="tabs" />
+      <window_info id="Find" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
+    </layout>
+  </component>
+  <component name="VcsContentAnnotationSettings">
+    <option name="myLimit" value="2678400000" />
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager />
+    <watches-manager />
+  </component>
+  <component name="antWorkspaceConfiguration">
+    <option name="IS_AUTOSCROLL_TO_SOURCE" value="false" />
+    <option name="FILTER_TARGETS" value="false" />
+  </component>
+  <component name="editorHistoryManager">
+    <entry file="file://$PROJECT_DIR$/eu39/src/test2/com/Main.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/eu39/src/test2/com/Main.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Test2.iml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/test2/com/Main.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="207">
+          <caret line="9" column="40" lean-forward="false" selection-start-line="9" selection-start-column="40" selection-end-line="9" selection-end-column="40" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/eu39/src/test2/com/TestClass.java" />
+    <entry file="file://$PROJECT_DIR$/eu39/src/test2/com/Main.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="255">
+          <caret line="17" column="9" lean-forward="false" selection-start-line="17" selection-start-column="9" selection-end-line="17" selection-end-column="9" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+  </component>
+</project>
