@@ -1,3 +1,7 @@
+import sun.security.x509.X509CertInfo;
+
+import java.util.ArrayList;
+
 /**
  * Created by tmurphy on 19/01/2017.
  */
@@ -62,7 +66,26 @@ public class Questions {
     ot.method1("Hello");
 
     }
+    static void Q10(){
+
+        Student myStudent = new Student();
+
+        ArrayList<Integer>intList = myStudent.changeArray();
+        System.out.println("intList is ");
+        System.out.println(intList);
+    }
+    static void Q11(){
+
+
+        String myStr = "open";
+        if (myStr.equals("open")) {
+            if (myStr.equals("someone"))
+                System.out.println("Hello!");
+            else System.out.println("Go away " + myStr);
+        }
+    }
 }
+
 
 
 

@@ -3,6 +3,11 @@
   <component name="ProjectModuleManager">
     <modules>
       <module fileurl="file://$PROJECT_DIR$/EU2111/EU2111.iml" filepath="$PROJECT_DIR$/EU2111/EU2111.iml" />
+      <module fileurl="file://$PROJECT_DIR$/EU21222/EU21222.iml" filepath="$PROJECT_DIR$/EU21222/EU21222.iml" />
+      <module fileurl="file://$PROJECT_DIR$/EU2333/EU2333.iml" filepath="$PROJECT_DIR$/EU2333/EU2333.iml" />
+      <module fileurl="file://$PROJECT_DIR$/EU24555/EU24555.iml" filepath="$PROJECT_DIR$/EU24555/EU24555.iml" />
+      <module fileurl="file://$PROJECT_DIR$/EU2566/EU25666.iml" filepath="$PROJECT_DIR$/EU2566/EU25666.iml" />
+      <module fileurl="file://$PROJECT_DIR$/EU3444/EU3444.iml" filepath="$PROJECT_DIR$/EU3444/EU3444.iml" />
       <module fileurl="file://$PROJECT_DIR$/Enthuware2.iml" filepath="$PROJECT_DIR$/Enthuware2.iml" />
     </modules>
   </component>
